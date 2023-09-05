@@ -10,10 +10,10 @@
   </p>
   
   <div style="display: flex; justify-content: space-between;">
-    <div style="width: 50%;">
+    <div style="width: 30%;">
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=JustMaine&show_icons=true&count_private=true&hide_border=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E" alt="Bibiii29 github stats" /> 
     </div>
-    <div style="width: 50%; float: right;">
+    <div style="width: 30%; float: right;">
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustMaine&layout=compact&hide_border=true&title_color=ff64da&text_color=ffffff&bg_color=291B3E" />
     </div>
   </div>
