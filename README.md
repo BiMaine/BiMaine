@@ -2,7 +2,7 @@
   <h2>Hi! I'm Ana Beatriz. I'm from Brazil.</h2>
 
 <div align="center">
-  <img src="gojo_chibi.png" alt="Gojo Chibi">
+  <img src="icon.jpg" alt="Icon">
 </div>
 
   <p>
