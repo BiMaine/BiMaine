@@ -2,7 +2,7 @@
   <h2>Hi! I'm Ana Beatriz. I'm from Brazil.</h2>
 
 <div align="center">
-  <img width="30%" src="icon.jpg" alt="Icon">
+  <img width="20%" src="icon.jpg" alt="Icon">
 </div>
 
   <p>
