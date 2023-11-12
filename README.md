@@ -6,15 +6,15 @@
 </div>
 
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=BiMaine&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+    <img width="50%" src="https://github-profile-trophy.vercel.app/?username=BiMaine&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
   </p>
   
   <div style="display: flex; justify-content: space-between;">
     <div style="width: 100%;">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=BiMaine&show_icons=true&count_private=true&hide_border=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E" alt="BiMaine github stats" /> 
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=BiMaine&show_icons=true&count_private=true&hide_border=true&title_color=ff64da&icon_color=a960ff&text_color=ffffff&bg_color=291B3E" alt="BiMaine github stats" /> 
     </div>
     <div style="width: 100%; float: right;">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiMaine&layout=compact&hide_border=true&title_color=ff64da&text_color=ffffff&bg_color=291B3E" />
+      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiMaine&layout=compact&hide_border=true&title_color=ff64da&text_color=ffffff&bg_color=291B3E" />
     </div>
   </div>
 
