@@ -1,8 +1,8 @@
 <div align="center">
   <h2>Hi! I'm Ana Beatriz. I'm from Brazil.</h2>
 
-<div align="center" style="border-radio: 15%;" width="20%">
-  <img src="icon.jpg" alt="Icon">
+<div style="text-align: center;">
+  <img src="icon.jpg" alt="Icon" style="border-radius: 15%; width: 20%;">
 </div>
 
   <p>
