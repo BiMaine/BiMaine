@@ -1,12 +1,12 @@
 <div align="center">
   <h2>Hi! I'm Ana Beatriz. I'm from Brazil.</h2>
 
-  <p>"It's a love-hate relationship<br />
-	with programming"</p>
-
 <div style="text-align: center;">
   <img src="avatar.png" alt="Icon" style="width: 20%;">
 </div>
+
+<p>"It's a love-hate relationship<br />
+	with programming"</p>
 
   <p>
     <img width="50%" src="https://github-profile-trophy.vercel.app/?username=BiMaine&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
