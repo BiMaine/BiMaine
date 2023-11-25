@@ -1,6 +1,9 @@
 <div align="center">
   <h2>Hi! I'm Ana Beatriz. I'm from Brazil.</h2>
 
+  <p>"It's a love-hate relationship<br />
+	with programming"</p>
+
 <div style="text-align: center;">
   <img src="avatar.png" alt="Icon" style="width: 20%;">
 </div>
